@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi there 👋 Aadhya here !</h1>
+<h1 align = "center"><p>  <img src = "https://media.tenor.com/W8DLm-mqJ8oAAAAi/cute.gif" width = "80">  Hi there, Aadhya here !</p></h1>
 
 
 <h3 align = "center"> CS Student | Data Science enthusiast </h3>
@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning AI and Data visualization tools like PowerBI.
 - 👯 I’m looking to collaborate on anything related to Data (it really interests me!)
 - 📫 How to reach me: **aadhyasubhash123@gmail.com**
+- 🤝 Connect with me on : [LinkedIn](https://www.linkedin.com/in/aadhya-subhash-a08633229/)
+
 
 ##
 <p align = "center" display="inline"><img align="center" display="inline" src="https://streak-stats.demolab.com/?user=aadhyea&theme=transparent" alt="aadhyea" width="500px"/></p>
